@@ -1,0 +1,96 @@
+.big-banner {
+
+  background-image: url('assets/img/architecture-bridge-buildings-1168940.jpg');
+  background-size: 30%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover
+}
+
+.log-banner {
+
+  background-image: url('assets/img/abstract-background-beautiful-1435752.jpg');
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover
+}
+
+.regi-banner {
+
+  background-image: url('assets/img/abstract-background-beautiful-1435752.jpg');
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover
+}
+
+
+.pro-banner {
+
+  background-image: url('assets/img/adult-background-beard-941693.jpg');
+  background-size: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover
+}
+
+.checked {
+  color: orange;
+}
+
+/* login form*/
+
+.user-log {
+  display: flex;
+  flex-direction: column;
+  background-color: cornflowerblue;
+  height: 100%;
+  width: 100%;
+}
+
+.regi{
+     background-position-y:top;
+
+}
+/*HOME*/
+
+/*HOME*/
+
+#sticky-footer {
+  flex-shrink: none;
+  position: sticky
+}
+span.container-fluid {
+  display: inline;
+}
+
+.navbar-brand{
+ font-size:200%;
+}
+
+.nav-item{
+ font-size: 120%;
+ text-align: center;
+}
+
+.nav-item dropdown{
+ font-size: 120%;
+ text-align: center;
+}
+.dropdown-menu{
+ font-size: 90%;
+ text-align: center;
+}
+.dropdown-menu a:hover{
+ background-color: #b4b4b4;
+ color:black;
+}
+.navbar{
+ margin-bottom:0px;
+}
+
+.nav-link{
+ font-size: 120%;
+ text-align: center;
+}
